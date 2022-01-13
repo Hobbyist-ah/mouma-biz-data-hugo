@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "https://hataat99.gitlab.io/mouma-biz-data-hugo/"
 title = "MouMaBiz妄想商品アイディアパッケージ"
 theme = "bigspring-light"
 # post pagination

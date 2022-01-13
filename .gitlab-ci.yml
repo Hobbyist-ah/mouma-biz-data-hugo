@@ -4,6 +4,8 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 pages:
+  stage: deploy
+  environment: production
   script:
   - hugo
   artifacts:
